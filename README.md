@@ -3,6 +3,11 @@
 Дашборд для аналитика по анализу диалогов бота
 
 ---
+## Ссылка на готовый дашборд
+
+https://botamin-dashboard-fir7uwiagmbfgybp9dxrq8.streamlit.app/
+
+---
 
 ## 📋 Описание проекта
 
