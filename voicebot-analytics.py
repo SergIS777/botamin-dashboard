@@ -920,7 +920,7 @@ def main():
     ---
     
     <div style='text-align: center; color: #666; padding: 20px;'>
-        <p>voicebot-analytics | Тестовое задание PO</p> | Автор: Исаков Сергей</p>
+        <p>voicebot-analytics | Автор: Исаков Сергей</p>
         <p>📊 Данных: {} диалогов | 📅 Период: {} - {}</p>
     </div>
     """.format(
