@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Botamin Analytics Dashboard
+voicebot-analytics
 Дашборд для аналитика по анализу диалогов бота
 """
 
@@ -834,7 +834,7 @@ def main():
         st.markdown("""
         ### Назначение дашборда
         
-        Этот инструмент помогает аналитику Botamin:
+        Этот инструмент помогает аналитику:
         
         1. **Быстро оценить состояние проекта** - ключевые метрики на главной странице показывают общую картину
         2. **Найти слабые места** - воронка конверсии и анализ этапов показывают, где бот теряет клиентов
@@ -907,12 +907,12 @@ def main():
         
         ```bash
         pip install streamlit pandas plotly numpy
-        streamlit run botamin_dashboard.py
+        streamlit run voicebot-analytics.py
         ```
         
         ### Автор
         **Исаков Сергей** | 
-        Дашборд разработан для тестового задания PO в Botamin.
+        Дашборд voicebot-analytics.
         """)
     
     # Подвал
@@ -920,7 +920,7 @@ def main():
     ---
     
     <div style='text-align: center; color: #666; padding: 20px;'>
-        <p>Botamin Analytics Dashboard | Тестовое задание PO</p> | Автор: Исаков Сергей</p>
+        <p>voicebot-analytics | Тестовое задание PO</p> | Автор: Исаков Сергей</p>
         <p>📊 Данных: {} диалогов | 📅 Период: {} - {}</p>
     </div>
     """.format(
