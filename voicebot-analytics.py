@@ -551,14 +551,14 @@ def main():
     
     # Настройки страницы
     st.set_page_config(
-        page_title="Botamin Analytics Dashboard",
-        page_icon="🤖",
+        page_title="Voicebot Analytics",
+        page_icon="📊",
         layout="wide",
         initial_sidebar_state="expanded"
     )
     
     # Заголовок
-    st.title("🤖 Botamin Analytics Dashboard")
+    st.title("📊 Voicebot Analytics — аналитика диалогов голосового AI")
     st.markdown("""
     **Дашборд для аналитика** - инструмент для анализа эффективности диалогов бота и поиска точек роста.
     
