@@ -8,7 +8,7 @@
 
 ## 🔗 Готовый дашборд
 
-https://botamin-dashboard-fir7uwiagmbfgybp9dxrq8.streamlit.app/
+voicebot-analytics.streamlit.app
 
 ---
 
