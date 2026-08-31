@@ -8,7 +8,7 @@
 
 ## 🔗 Готовый дашборд
 
-voicebot-analytics.streamlit.app
+(https://voicebot-analytics.streamlit.app/)
 
 ---
 
