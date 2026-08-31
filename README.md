@@ -1,5 +1,7 @@
 # Voicebot Analytics
 
+![License](https://img.shields.io/github/license/SergIS777/voicebot-analytics) ![Release](https://img.shields.io/github/v/release/SergIS777/voicebot-analytics) ![Tests](https://img.shields.io/badge/tests-pending-yellow)
+
 Дашборд продуктовой аналитики диалогов голосового AI-бота.
 
 Анализирует звонки моего [voicebot](https://github.com/SergIS777/voicebot) — от метрик к гипотезам и A/B-тестам.
@@ -108,7 +110,7 @@
 
 ---
 
-Открыть: http://localhost:8501
+**🔗 Живое демо:** [voicebot-analytics.streamlit.app](https://voicebot-analytics.streamlit.app)
 
 📁 Структура проекта
 voicebot-analytics/
