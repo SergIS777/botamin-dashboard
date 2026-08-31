@@ -114,7 +114,8 @@
 
 **🔗 Живое демо:** [voicebot-analytics.streamlit.app](https://voicebot-analytics.streamlit.app)
 
-```📁 Структура проекта
+📁 Структура проекта
+```
 voicebot-analytics/
 ├── voicebot-analytics.py   # Основной дашборд (Streamlit)
 ├── README.md
