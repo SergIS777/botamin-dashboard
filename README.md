@@ -2,6 +2,8 @@
 
 ![License](https://img.shields.io/github/license/SergIS777/voicebot-analytics) ![Release](https://img.shields.io/github/v/release/SergIS777/voicebot-analytics) ![Tests](https://img.shields.io/badge/tests-pending-yellow)
 
+![Презентация VOICEBOT-ANALYTICS](voicebot-analytics.jpeg)
+
 Дашборд продуктовой аналитики диалогов голосового AI-бота.
 
 Анализирует звонки моего [voicebot](https://github.com/SergIS777/voicebot) — от метрик к гипотезам и A/B-тестам.
