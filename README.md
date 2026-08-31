@@ -1,6 +1,6 @@
 # Voicebot Analytics
 
-![License](https://img.shields.io/github/license/SergIS777/voicebot-analytics) ![Release](https://img.shields.io/github/v/release/SergIS777/voicebot-analytics) ![Tests](https://img.shields.io/badge/tests-pending-yellow)
+![License](https://img.shields.io/github/license/SergIS777/voicebot-analytics) ![Release](https://img.shields.io/github/v/release/SergIS777/voicebot-analytics) ![Live demo](https://img.shields.io/badge/live%20demo-streamlit-orange)
 
 ![Презентация VOICEBOT-ANALYTICS](voicebot-analytics.jpeg)
 
