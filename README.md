@@ -145,7 +145,12 @@ MIT
 
 ## Автор: **Сергей Исаков** 
 
-## Стек: **Python, Streamlit, pandas, Plotly** 
+## Стек
+- **Визуализация:** Streamlit · Plotly
+- **Аналитика:** pandas · numpy
+- **Данные:** CSV (синтетическая генерация 11,486 диалогов)
+- **Деплой:** Streamlit Cloud (бесплатно, автодеплой из GitHub)
+- **Тесты:** pytest (для `calculate_metrics()` и `determine_dialog_stage()`)
 
 ## Другие проекты автора: https://github.com/SergIS777/ml-loop · https://github.com/SergIS777/voicebot · https://github.com/SergIS777/multi-agent-rag
 
