@@ -1,6 +1,4 @@
-<div align="center">
 ## Voicebot Analytics
-</div>
 
 ---
 
