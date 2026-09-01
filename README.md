@@ -153,8 +153,8 @@ MIT
 - **Тесты:** pytest (для `calculate_metrics()` и `determine_dialog_stage()`)
 
 ## Другие проекты автора: 
-https://github.com/SergIS777/ml-loop
-https://github.com/SergIS777/voicebot
-https://github.com/SergIS777/multi-agent-rag
+- **https://github.com/SergIS777/ml-loop**
+- **https://github.com/SergIS777/voicebot**
+- **https://github.com/SergIS777/multi-agent-rag**
 
 ---
