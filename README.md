@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Voicebot Analytics
+
+</div>
 
 ---
 
@@ -7,8 +11,6 @@
 ![Презентация VOICEBOT-ANALYTICS](voicebot-analytics.jpeg)
 
 Дашборд продуктовой аналитики диалогов голосового AI-бота.
-
-Анализирует звонки моего [voicebot](https://github.com/SergIS777/voicebot) — от метрик к гипотезам и A/B-тестам.
 
 ---
 
