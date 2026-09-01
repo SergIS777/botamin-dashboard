@@ -22,6 +22,10 @@
 
 ---
 
+## 📚 **Полная архитектурная документация** (arc42 + C4): [ARCHITECTURE.md](ARCHITECTURE.md)
+
+---
+
 ## 🎯 Цели дашборда
 
 1. **Быстрая оценка состояния** — общая картина за неделю
@@ -114,13 +118,6 @@
 
 **🔗 Живое демо:** [voicebot-analytics.streamlit.app](https://voicebot-analytics.streamlit.app)
 
-📁 Структура проекта
-```
-voicebot-analytics/
-├── voicebot-analytics.py   # Основной дашборд (Streamlit)
-├── README.md
-└── requirements.txt
-```
 
 🎨 Возможности
 🔍 Фильтры: дата, причина завершения, этап
