@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 Ключевые метрики
+## 📊 Ключевые метрики:
 
 ### 1. Воронка конверсии (Funnel Analysis)
 
@@ -154,7 +154,7 @@ MIT
 
 ## Резюме на hh.ru  https://spb.hh.ru/resume/cabaf8c9ff07eccd210039ed1f4b75515a6f56
 
-## Связаться с автором проекта: sergeyhigh@gmail.com
+## Связаться с автором проекта sergeyhigh@gmail.com
 
 ## Другие проекты автора: 
 - **https://github.com/SergIS777/ml-loop**
