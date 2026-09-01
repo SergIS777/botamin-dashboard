@@ -152,6 +152,9 @@ MIT
 - **Деплой:** Streamlit Cloud (бесплатно, автодеплой из GitHub)
 - **Тесты:** pytest (для `calculate_metrics()` и `determine_dialog_stage()`)
 
-## Другие проекты автора: https://github.com/SergIS777/ml-loop · https://github.com/SergIS777/voicebot · https://github.com/SergIS777/multi-agent-rag
+## Другие проекты автора: 
+https://github.com/SergIS777/ml-loop
+https://github.com/SergIS777/voicebot
+https://github.com/SergIS777/multi-agent-rag
 
 ---
