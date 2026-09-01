@@ -143,14 +143,18 @@ MIT
 
 ---
 
-## Автор: **Сергей Исаков** 
-
-## Стек
+## Стек проекта 
 - **Визуализация:** Streamlit · Plotly
 - **Аналитика:** pandas · numpy
 - **Данные:** CSV (синтетическая генерация 11,486 диалогов)
 - **Деплой:** Streamlit Cloud (бесплатно, автодеплой из GitHub)
 - **Тесты:** pytest (для `calculate_metrics()` и `determine_dialog_stage()`)
+
+## Автор: **Сергей Исаков** 
+
+## Резюме на hh.ru  https://spb.hh.ru/resume/cabaf8c9ff07eccd210039ed1f4b75515a6f56
+
+## Связаться с автором проекта: sergeyhigh@gmail.com
 
 ## Другие проекты автора: 
 - **https://github.com/SergIS777/ml-loop**
