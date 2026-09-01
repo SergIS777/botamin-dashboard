@@ -132,6 +132,10 @@
 - Трекинг A/B-тестов
 - Автоматические инсайты и детекция аномалий
 
-**Автор: Сергей Исаков**
-**Стек: Python, Streamlit, pandas, Plotly**
-**Связанные проекты: https://github.com/SergIS777/ml-loop · https://github.com/SergIS777/voicebot · https://github.com/SergIS777/multi-agent-rag**
+---
+
+## Автор: **Сергей Исаков** 
+
+## Стек: **Python, Streamlit, pandas, Plotly Связанные проекты: https://github.com/SergIS777/ml-loop · https://github.com/SergIS777/voicebot · https://github.com/SergIS777/multi-agent-rag**
+
+---
