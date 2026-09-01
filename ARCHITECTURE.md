@@ -64,7 +64,7 @@ graph LR
 
 ```mermaid
 graph TB
-    subgraph Container: VoiceBot Analytics
+    subgraph VA ["VoiceBot Analytics"]
         L["load_and_process_data()<br/>загрузка + кэш"] --> M["calculate_metrics()<br/>KPI и конверсии"]
         L --> F1["plot_funnel_chart()<br/>воронка 5 этапов"]
         L --> F2["plot_end_reasons()<br/>причины завершений"]
