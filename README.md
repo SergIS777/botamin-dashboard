@@ -1,4 +1,4 @@
-# Voicebot Analytics
+<p align="center">**Voicebot Analytics**</p>
 
 ![License](https://img.shields.io/github/license/SergIS777/voicebot-analytics) ![Release](https://img.shields.io/github/v/release/SergIS777/voicebot-analytics) ![Live demo](https://img.shields.io/badge/live%20demo-streamlit-orange)
 
